@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ```
 
 **Konfigurasi Environment**  
-Buat file `.env` di dalam folder `backend/` dan tambahkan konfigurasi berikut:
+Edit file .env sesuai dengan API kalian 
 
 ```env
 DATABASE_URL=postgresql://postgres:password_anda@localhost:5432/review_db

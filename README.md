@@ -1,6 +1,6 @@
 # Product Review Analyzer 🚀
 
-Aplikasi web berbasis AI untuk menganalisis sentimen dan mengekstrak poin penting dari ulasan produk secara otomatis. Proyek ini dikembangkan sebagai bagian dari Tugas Individu Pemrograman Web.
+Aplikasi web berbasis AI untuk menganalisis sentimen dan mengekstrak poin penting dari ulasan produk secara otomatis. 
 
 ## 📋 Fitur Utama
 
